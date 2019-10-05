@@ -1,0 +1,7 @@
+\section{Parte 2: Aprendizaje Estadístico}
+
+Una definición satisfactoria de "aprendizaje" es la dada por Mitchell (1997), y es la que se toma como punto de partida para diseñar cualquier algoritmo de ML:
+
+"Un programa se dice que aprendió de una experiancia E con respecto a una tarea T y a una medida de desempeño P, si su desempeño en la tarea T, medida con P, mejoró con la experiencia E."
+
+Esta definición tiene sus limitaciones (como todo), pero es la que permite generalizar la manera en que se construye o se diseña un algoritmo de ML.
